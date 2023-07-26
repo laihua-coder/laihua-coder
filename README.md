@@ -1,17 +1,3 @@
-
-<h1></h1>
-
-<h4 align="center">
-  <a href="#"><img src="./widgets/wave.svg" height="38" width="38" alt="👋" title="👋" /></a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://surmon.me" title="surmon.me">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./widgets/title-dark.svg">
-      <img alt="Hello World! I am Surmon." src="/widgets/title-light.svg">
-    </picture>
-  </a>
-</h4>
-
 <h3 align="center">
   <i>
     <samp>
